@@ -15,10 +15,10 @@ $ git clone https://github.com/smart-methods/arduino_robot_arm
 ```
 $ cd ~/catkin_ws
 $ rosdep install --from-paths src --ignore-src -r -y
-$ sudo apt-get install ros-melodic-moveit
-$ sudo apt-get install ros-melodic-joint-state-publisher ros-melodic-joint-state-publisher-gui
-$ sudo apt-get install ros-melodic-gazebo-ros-control joint-state-publisher
-$ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
+$ sudo apt-get install ros-noetic-moveit
+$ sudo apt-get install ros-noetic-joint-state-publisher ros-noetic-joint-state-publisher-gui
+$ sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
+$ sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 ```
 
 
