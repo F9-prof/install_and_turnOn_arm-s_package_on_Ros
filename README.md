@@ -32,6 +32,15 @@ $ catkin_make
 ```
 ![Screenshot_1](https://user-images.githubusercontent.com/108638709/181179203-0e1ab12a-8bb4-4619-9461-53fec8dfeebd.png)
 
+- Controlling the motors
+```
+$ roslaunch robot_arm_pkg check_motors.launch
+```
+
+
+![Screenshot_2](https://user-images.githubusercontent.com/108638709/181180113-191f3934-1104-440e-a140-f62512eb0c26.png)
+
+
 
 
   
