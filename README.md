@@ -30,6 +30,7 @@ $ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
 ```
 $ catkin_make
 ```
+![Screenshot_1](https://user-images.githubusercontent.com/108638709/181179203-0e1ab12a-8bb4-4619-9461-53fec8dfeebd.png)
 
 
 
